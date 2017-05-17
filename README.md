@@ -12,7 +12,7 @@
             AAAACC  
             AAAAGA  
             AAAAGC”
-  支持度与保守序列长度根据实际选取，这些参数可在run_shift_pattern.pl中修改，也可在shift_pattern_2.pl直接运行时当参数输入  
+  支持度与保守序列长度根据实际选取，这些参数可在run_shift_pattern.pl中修改，也可在shift_pattern_2.pl直接运行时当参数输入      
 输出数据：   
   文件1记录测试集各序列在正反训练集所属类别中的分值及倾向值      
   文件2记录倾向值频率的区间分布
