@@ -1,6 +1,8 @@
 #perl
 #在不同支持度和保守长度下运行shift_pattern_2.pl程序，产生打分倾向值文件和倾向值频率分布
 #　$i 表示支持度，　$j 表示保守位置长度
+#　作者：施梦军（Shi Mengjun）
+#  单位：安徽大学
 use strict;
 use warnings;
 #use Switch;

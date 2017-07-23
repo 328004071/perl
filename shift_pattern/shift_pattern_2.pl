@@ -1,10 +1,10 @@
 #perl
 # 利用shift-pattern思想抽取序列特征
+#　作者：施梦军（Shi Mengjun）
+#  单位：安徽大学
 use strict;
 use warnings;
-#use Encode;
 use Algorithm::Prefixspan_1;
-#use Prefixspan_1;
 
 my $file1;
 my $file2;
